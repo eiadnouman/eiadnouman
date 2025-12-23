@@ -1,4 +1,4 @@
-# Hi, I'm Eyad 👋
+# Hi, I'm Eهad 👋
 
 🎓 Computer Science student  
 🤖 Aspiring Machine Learning / AI Engineer  
