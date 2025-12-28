@@ -69,22 +69,10 @@ Git | GitHub | Jupyter | VS Code
 ---
 
 ## 📚 Currently Learning
-- Advanced NLP  
+- NLP & LLMs  
 - Computer Vision  
 - RAG architectures  
 - Modern AI stacks  
-
----
-
-## 🚀 Featured Projects
-
-🔹 **Smart Egyptian Real Estate Advisor (RAG App)**  
-AI-powered advisor for the Egyptian real-estate market using semantic search & LLMs  
-
-🔹 **ML & CV Learning Projects**  
-Experiments with CNNs, data pipelines & model optimization  
-
-> (Add repo links later لما ترفعهم 😉)
 
 ---
 
@@ -97,14 +85,6 @@ Experiments with CNNs, data pipelines & model optimization
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EiadNouman&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EiadNouman&theme=dracula&margin-w=10&margin-h=10" />
 </p>
 
 ---
@@ -122,3 +102,4 @@ Experiments with CNNs, data pipelines & model optimization
 <p align="center">
   🚀 <strong>Always building. Always learning. Always leveling up.</strong> ✨
 </p>
+
