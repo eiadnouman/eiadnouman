@@ -1,46 +1,38 @@
 
 <!-- HEADER ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Eiad+👋;AI+%26+Machine+Learning+Enthusiast+🤖;NLP+%7C+Computer+Vision+%7C+RAG+🚀;Always+Learning+Something+New+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Eiad+👋;Computer+Science+Student;Interested+in+ML%2C+NLP%2C+and+Computer+Vision;Always+Learning+Something+New+✨" />
 </p>
 
 <!-- BADGES -->
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Engineer-In_Progress-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Explorer-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/NLP-Learning-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-Passionate-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-Building-brightgreen?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=EiadNouman&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-Enthusiast-red?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=eiadnouman&style=for-the-badge&color=blue" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 **Computer Science Student — Egypt**  
-🤖 **Aspiring AI & Machine Learning Engineer**
-
-I’m passionate about building intelligent systems and exploring modern AI technologies — especially:
-
-- 🗣️ **Natural Language Processing (NLP)**
-- 👁️ **Computer Vision**
-- 🔎 **Retrieval-Augmented Generation (RAG)**
-- 🧠 **Deep Learning & LLMs**
-
-I love experimenting, learning fast, and working on **data-driven & optimization-focused projects using Python**.  
-Always improving. Always shipping. 🚀
+🎓 Computer Science student from Egypt  
+💻 I enjoy working with Python and building practical, data-driven projects  
+🧠 Currently learning Machine Learning, NLP, and Computer Vision  
+📚 Always improving my skills and exploring new technologies  
+🤝 Open to collaborating on interesting projects
 
 ---
 
 ## 🧠 Tech Stack — Tools I Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,git,github,vscode,opencv,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,mysql,git,github,vscode" />
 </p>
 
 ---
 
-## ⚙️ Tech Summary
+## ⚙️ Technical Summary
 
 💻 **Languages**
 
@@ -58,10 +50,6 @@ Pandas | NumPy
 
 OpenCV | CNN Concepts
 
-🤖 **AI & LLMs**
-
-NLP | RAG | Prompt Engineering | AI Systems
-
 🛠 **Developer Tools**
 
 Git | GitHub | Jupyter | VS Code
@@ -69,29 +57,34 @@ Git | GitHub | Jupyter | VS Code
 ---
 
 ## 📚 Currently Learning
-- NLP & LLMs  
-- Computer Vision  
-- RAG architectures  
-- Modern AI stacks  
+- NLP & Language Models  
+- Computer Vision concepts  
+- RAG-based systems  
+- Modern AI workflows  
+
+---
+
+## 🚀 Interests
+- Building useful AI/ML mini-projects  
+- Learning by doing  
+- Reading about optimization & model improvement  
+- Understanding real-world AI applications  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=EiadNouman&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=EiadNouman&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EiadNouman&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=eiadnouman&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eiadnouman&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 📫 Contact
 
-📧 **Email:** eiadnouman@gmail.com  
+📧 Email: **eiadnouman@gmail.com**  
+🔗 LinkedIn: **https://www.linkedin.com/in/eiadnouman**
 
 <p align="center">
   <img src="https://media.tenor.com/2roX3uxz_68AAAAC/coding-computer.gif" width="300">
@@ -100,6 +93,6 @@ Git | GitHub | Jupyter | VS Code
 ---
 
 <p align="center">
-  🚀 <strong>Always building. Always learning. Always leveling up.</strong> ✨
+  ✌️ Just learning, building, and enjoying the journey.
 </p>
 
