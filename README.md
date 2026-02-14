@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Eiad+👋;Computer+Science+Student;Interested+in+ML%2C+NLP%2C+and+Computer+Vision;Always+Learning+Something+New+✨" />
 </p>
-
 <!-- BADGES -->
 <p align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-Explorer-blueviolet?style=for-the-badge" />
