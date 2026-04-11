@@ -1,66 +1,96 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Eiad%20Nouman&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
-</div>
 
-<h2 align="center">⚡ Data Engineer | AI/ML Architect | Linux Enthusiast</h2>
+<!-- HEADER ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Eiad+👋;Computer+Science+Student;Interested+in+ML%2C+NLP%2C+and+Computer+Vision;Always+Learning+Something+New+✨" />
+</p>
+<!-- BADGES -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-Explorer-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP-Learning-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-Enthusiast-red?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=eiadnouman&style=for-the-badge&color=blue" />
+</p>
 
-<div align="center">
-  <p>Architecting robust <b>data pipelines</b>, processing raw datasets, and building intelligent <b>AI/ML systems</b>. Focused on transforming unstructured data into actionable insights while leveraging deep Linux environments.</p>
-</div>
+---
+
+## 👨‍💻 About Me
+
+🎓 Computer Science student from Egypt  
+💻 I enjoy working with Python and building practical, data-driven projects  
+🧠 Currently learning Machine Learning, NLP, and Computer Vision  
+📚 Always improving my skills and exploring new technologies  
+🤝 Open to collaborating on interesting projects
+
+---
+
+## 🧠 Tech Stack — Tools I Use
 
 <p align="center">
-  <a href="https://github.com/eiadnouman">
-    <img src="https://komarev.com/ghpvc/?username=eiadnouman&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,mysql,git,github,vscode" />
 </p>
 
 ---
 
-### 🚀 Data Engineering & AI Systems
+## ⚙️ Technical Summary
 
-| 📊 Data Engineering & Pipelines | 🤖 Machine Learning & AI |
-| :--- | :--- |
-| **[Cloudlet Data Pipeline](https://github.com/eiadnouman/cloudlet-data-portsaid)**<br>🔄 *ETL Pipeline: Fetches OpenStreetMap data, cleans POIs, and generates weighted synthetic locations for optimization research.* | **[VoiceGuard](https://github.com/eiadnouman/VoiceGuard)**<br>🎙️ *Advanced ML voice biometric authentication system built to securely unlock Linux operating systems using voice recognition.* |
-| **[EDA & Feature Engineering](https://github.com/eiadnouman/car-price-prediction)**<br>🧹 *Applied Data Engineering: Focuses on rigorous Exploratory Data Analysis, data cleaning, and feature engineering for structured ML datasets.* | **[Aqar-AI](https://github.com/eiadnouman/Aqar-AI)**<br>🏡 *AI-Powered Real Estate Consultant using RAG & OSS. An intelligent chatbot with a localized Egyptian Arabic persona.* |
+💻 **Languages**
 
----
+Python | SQL
 
-### 💻 Arsenal & Tech Stack
+🧠 **Machine Learning & Deep Learning**
 
-**Data Engineering & Analytics:**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" />
-</p>
+Scikit-learn | TensorFlow | PyTorch (Basics)
 
-**Artificial Intelligence & Machine Learning:**
-<p align="left">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-</p>
+📊 **Data Tools**
 
-**OS & Infrastructure:**
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bash_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+Pandas | NumPy
+
+👁️ **Computer Vision**
+
+OpenCV | CNN Concepts
+
+🛠 **Developer Tools**
+
+Git | GitHub | Jupyter | VS Code
 
 ---
 
-### 📊 Engineering Metrics
+## 📚 Currently Learning
+- NLP & Language Models  
+- Computer Vision concepts  
+- RAG-based systems  
+- Modern AI workflows  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eiadnouman&show_icons=true&theme=tokyonight&hide_border=true" alt="Eiad's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eiadnouman&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
+---
 
-<br />
+## 🚀 Interests
+- Building useful AI/ML mini-projects  
+- Learning by doing  
+- Reading about optimization & model improvement  
+- Understanding real-world AI applications  
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eiadnouman&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=eiadnouman&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eiadnouman&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Contact
+
+📧 Email: **eiadnouman@gmail.com**  
+🔗 LinkedIn: **https://www.linkedin.com/in/eiadnouman**
+
+<p align="center">
+  <img src="https://media.tenor.com/2roX3uxz_68AAAAC/coding-computer.gif" width="300">
+</p>
+
+---
+
+<p align="center">
+  ✌️ Just learning, building, and enjoying the journey.
+</p>
