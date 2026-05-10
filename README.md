@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Machine%20Learning-Explorer-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/NLP-Learning-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Computer%20Vision-Enthusiast-red?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=eiadnouman&style=for-the-badge&color=blue" />
+  <!-- <img src="https://komarev.com/ghpvc/?username=eiadnouman&style=for-the-badge&color=blue" /> -->
 </p>
 
 ---
