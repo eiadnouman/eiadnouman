@@ -1,96 +1,97 @@
-
-<!-- HEADER ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Eiad+👋;Computer+Science+Student;Interested+in+ML%2C+NLP%2C+and+Computer+Vision;Always+Learning+Something+New+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Eiad+Nouman+%F0%9F%91%8B;AI+%26+Machine+Learning+Engineer;Building+Applied+AI+Systems" />
 </p>
-<!-- BADGES -->
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-Explorer-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NLP-Learning-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-Enthusiast-red?style=for-the-badge" />
-  <!-- <img src="https://komarev.com/ghpvc/?username=eiadnouman&style=for-the-badge&color=blue" /> -->
+  <img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-Engineer-6A5ACD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs%20%26%20RAG-FF6F00?style=for-the-badge" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-🎓 Computer Science student from Egypt  
-💻 I enjoy working with Python and building practical, data-driven projects  
-🧠 Currently learning Machine Learning, NLP, and Computer Vision  
-📚 Always improving my skills and exploring new technologies  
-🤝 Open to collaborating on interesting projects
+I'm an **AI & Machine Learning Engineer** based in Egypt, currently working at **Kapci Coatings**.
 
----
+I build practical AI solutions with a focus on **machine learning, data, optimization, and intelligent software systems**.
 
-## 🧠 Tech Stack — Tools I Use
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,mysql,git,github,vscode" />
-</p>
+I enjoy working on problems where AI needs to go beyond experimentation and become something that can actually be used.
 
 ---
 
-## ⚙️ Technical Summary
+## 🧠 Technical Focus
 
-💻 **Languages**
+**Machine Learning**
 
-Python | SQL
+`Scikit-learn` · `XGBoost` · `KNN` · `Regression` · `Model Evaluation`
 
-🧠 **Machine Learning & Deep Learning**
+**AI & Deep Learning**
 
-Scikit-learn | TensorFlow | PyTorch (Basics)
+`PyTorch` · `TensorFlow` · `Computer Vision` · `LLMs` · `RAG`
 
-📊 **Data Tools**
+**Data**
 
-Pandas | NumPy
+`Python` · `Pandas` · `NumPy` · `SQL` · `Matplotlib` · `Plotly`
 
-👁️ **Computer Vision**
+**Engineering**
 
-OpenCV | CNN Concepts
-
-🛠 **Developer Tools**
-
-Git | GitHub | Jupyter | VS Code
+`FastAPI` · `Node.js` · `Docker` · `Git` · `Linux` · `AWS`
 
 ---
 
-## 📚 Currently Learning
-- NLP & Language Models  
-- Computer Vision concepts  
-- RAG-based systems  
-- Modern AI workflows  
+## 💼 Experience
+
+### Kapci Coatings
+**AI & Machine Learning Engineer**
+
+Working on applied AI and machine learning solutions for real-world industrial applications.
+
+My work involves developing, evaluating, and improving ML-based systems while working closely with software and domain-specific requirements.
 
 ---
 
 ## 🚀 Interests
-- Building useful AI/ML mini-projects  
-- Learning by doing  
-- Reading about optimization & model improvement  
-- Understanding real-world AI applications  
+
+- Applied Machine Learning
+- Generative AI & RAG
+- Computer Vision
+- Model Optimization
+- Data-driven Systems
+- ML Engineering
+
+---
+
+## 🛠️ How I Approach AI
+
+I like working across the full ML lifecycle:
+
+**Problem → Data → Modeling → Evaluation → Deployment**
+
+with an emphasis on understanding *why* a model works, where it fails, and how it can be improved.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=eiadnouman&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eiadnouman&layout=compact&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=eiadnouman&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eiadnouman&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📫 Contact
+## 📫 Connect
 
-📧 Email: **eiadnouman@gmail.com**  
-🔗 LinkedIn: **https://www.linkedin.com/in/eiadnouman**
-
-<p align="center">
-  <img src="https://media.tenor.com/2roX3uxz_68AAAAC/coding-computer.gif" width="300">
+<p>
+  <a href="mailto:eiadnouman@gmail.com">
+    <img src="https://img.shields.io/badge/Email-eiadnouman%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/eiadnouman">
+    <img src="https://img.shields.io/badge/LinkedIn-Eiad%20Nouman-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
----
-
 <p align="center">
-  ✌️ Just learning, building, and enjoying the journey.
+  <sub>Building useful things with AI.</sub>
 </p>
