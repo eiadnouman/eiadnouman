@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi, I'm Eiad 👋
+# Eiad Nouman
 
-**AI & Machine Learning Engineer**
+### AI & Machine Learning Engineer
 
-I build AI systems, experiment with models, and turn ideas into working software.
+**Applied AI · Scientific Computing · Optimization**
 
 <p>
   <a href="https://www.linkedin.com/in/eiadnouman">LinkedIn</a>
@@ -16,60 +16,71 @@ I build AI systems, experiment with models, and turn ideas into working software
 
 ---
 
-## A little about me
+## About
 
-I'm a Computer Science graduate from Egypt, currently working as an **AI & Machine Learning Engineer at Kapci Coatings**.
+I'm a **Computer Science graduate from Egypt**, currently working as an **AI & Machine Learning Engineer at Kapci Coatings**.
 
-Most of my work revolves around understanding a problem, working with the data behind it, experimenting with different approaches, and eventually turning the solution into something usable.
+I build AI systems for problems where **data alone isn't always enough**.
 
-I'm particularly interested in **Machine Learning, Generative AI, Computer Vision, and ML Engineering**.
+My work and interests sit at the intersection of **machine learning, scientific computing, mathematical optimization, and physics-based modeling**. I enjoy understanding the system behind the data and using that knowledge to build models and algorithms that behave well beyond a controlled dataset.
 
-I enjoy the engineering side of AI as much as the models themselves — building things, testing assumptions, finding where they fail, and iterating from there.
+I'm particularly interested in **Applied ML, Scientific AI, Generative AI, Computer Vision, and ML Engineering**.
 
 ---
 
-## What I work with
+## My Approach
 
-**Languages**
+I don't see machine learning as simply:
 
-`Python` · `C++` · `JavaScript` · `SQL`
+`train → metric → deploy`
 
-**Machine Learning**
+For real-world problems, I care about the whole loop:
 
+**Understand → Model → Experiment → Measure → Analyze → Improve → Validate**
+
+That often means combining different approaches rather than relying on a single model:
+
+**Machine Learning + Mathematics + Domain Knowledge + Physics + Software Engineering**
+
+---
+
+## Areas I Work In
+
+### Machine Learning
 `Scikit-learn` · `XGBoost` · `PyTorch` · `TensorFlow`
 
-**Data**
+### Scientific Computing
+`NumPy` · `Pandas` · Numerical Methods · Mathematical Modeling · Optimization
 
-`Pandas` · `NumPy` · `Matplotlib` · `Plotly`
-
-**AI**
-
+### AI
 `LLMs` · `RAG` · `Embeddings` · `Computer Vision`
 
-**Engineering**
-
-`FastAPI` · `Node.js` · `Docker` · `Git` · `Linux` · `AWS`
-
----
-
-## Things I like working on
-
-- Applied machine learning
-- Data-driven problem solving
-- LLM and RAG applications
-- Computer vision
-- Model evaluation and optimization
-- Building ML systems that can actually be used
+### Engineering
+`Python` · `C++` · `SQL` · `FastAPI` · `Node.js` · `Docker` · `Git` · `Linux` · `AWS`
 
 ---
 
-## A few things you'll find here
+## Scientific AI
 
-Most of the projects on my GitHub are experiments, implementations, or practical projects that helped me understand something by actually building it.
+I'm especially interested in AI problems with an underlying **physical or scientific structure**.
 
-I prefer projects where I can go beyond training a model and deal with the whole process:
+Rather than treating a system purely as a black box, I like exploring how:
 
-**problem → data → model → evaluation → iteration → software**
+- physical knowledge can constrain or guide a model
+- mathematical structure can improve optimization
+- simulations can be compared with real measurements
+- experimental results can reveal model limitations
+- data-driven and physics-based approaches can complement each other
+
+This combination of **learning from data and understanding the system itself** is one of the areas I want to explore further.
+
+---
+
+## What You'll Find Here
+
+My GitHub is a collection of projects, experiments, and implementations built mainly to **learn by building and investigate ideas in practice**.
+
+I value projects that involve more than fitting a model — especially when they require understanding the data, designing experiments, analyzing failure cases, and turning an approach into working software.
 
 ---
 
@@ -77,9 +88,9 @@ I prefer projects where I can go beyond training a model and deal with the whole
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=eiadnouman&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=eiadnouman&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eiadnouman&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eiadnouman&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -87,7 +98,7 @@ I prefer projects where I can go beyond training a model and deal with the whole
 
 <div align="center">
 
-### Let's build something interesting.
+**AI × Science × Engineering**
 
 <a href="mailto:eiadnouman@gmail.com">Email</a>
 &nbsp; · &nbsp;
