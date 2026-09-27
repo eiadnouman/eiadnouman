@@ -1,38 +1,50 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Eiad+Nouman+%F0%9F%91%8B;AI+%26+Machine+Learning+Engineer;Building+Applied+AI+Systems" />
+<div align="center">
+
+# Hi, I'm Eiad 👋
+
+**AI & Machine Learning Engineer**
+
+I build AI systems, experiment with models, and turn ideas into working software.
+
+<p>
+  <a href="https://www.linkedin.com/in/eiadnouman">LinkedIn</a>
+  ·
+  <a href="mailto:eiadnouman@gmail.com">Email</a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-Engineer-6A5ACD?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLMs%20%26%20RAG-FF6F00?style=for-the-badge" />
-</p>
+</div>
 
 ---
 
-## 👋 About Me
+## A little about me
 
-I'm an **AI & Machine Learning Engineer** based in Egypt, currently working at **Kapci Coatings**.
+I'm a Computer Science graduate from Egypt, currently working as an **AI & Machine Learning Engineer at Kapci Coatings**.
 
-I build practical AI solutions with a focus on **machine learning, data, optimization, and intelligent software systems**.
+Most of my work revolves around understanding a problem, working with the data behind it, experimenting with different approaches, and eventually turning the solution into something usable.
 
-I enjoy working on problems where AI needs to go beyond experimentation and become something that can actually be used.
+I'm particularly interested in **Machine Learning, Generative AI, Computer Vision, and ML Engineering**.
+
+I enjoy the engineering side of AI as much as the models themselves — building things, testing assumptions, finding where they fail, and iterating from there.
 
 ---
 
-## 🧠 Technical Focus
+## What I work with
+
+**Languages**
+
+`Python` · `C++` · `JavaScript` · `SQL`
 
 **Machine Learning**
 
-`Scikit-learn` · `XGBoost` · `KNN` · `Regression` · `Model Evaluation`
-
-**AI & Deep Learning**
-
-`PyTorch` · `TensorFlow` · `Computer Vision` · `LLMs` · `RAG`
+`Scikit-learn` · `XGBoost` · `PyTorch` · `TensorFlow`
 
 **Data**
 
-`Python` · `Pandas` · `NumPy` · `SQL` · `Matplotlib` · `Plotly`
+`Pandas` · `NumPy` · `Matplotlib` · `Plotly`
+
+**AI**
+
+`LLMs` · `RAG` · `Embeddings` · `Computer Vision`
 
 **Engineering**
 
@@ -40,58 +52,45 @@ I enjoy working on problems where AI needs to go beyond experimentation and beco
 
 ---
 
-## 💼 Experience
+## Things I like working on
 
-### Kapci Coatings
-**AI & Machine Learning Engineer**
-
-Working on applied AI and machine learning solutions for real-world industrial applications.
-
-My work involves developing, evaluating, and improving ML-based systems while working closely with software and domain-specific requirements.
-
----
-
-## 🚀 Interests
-
-- Applied Machine Learning
-- Generative AI & RAG
-- Computer Vision
-- Model Optimization
-- Data-driven Systems
-- ML Engineering
+- Applied machine learning
+- Data-driven problem solving
+- LLM and RAG applications
+- Computer vision
+- Model evaluation and optimization
+- Building ML systems that can actually be used
 
 ---
 
-## 🛠️ How I Approach AI
+## A few things you'll find here
 
-I like working across the full ML lifecycle:
+Most of the projects on my GitHub are experiments, implementations, or practical projects that helped me understand something by actually building it.
 
-**Problem → Data → Modeling → Evaluation → Deployment**
+I prefer projects where I can go beyond training a model and deal with the whole process:
 
-with an emphasis on understanding *why* a model works, where it fails, and how it can be improved.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=eiadnouman&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eiadnouman&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+**problem → data → model → evaluation → iteration → software**
 
 ---
 
-## 📫 Connect
+## GitHub
 
-<p>
-  <a href="mailto:eiadnouman@gmail.com">
-    <img src="https://img.shields.io/badge/Email-eiadnouman%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/eiadnouman">
-    <img src="https://img.shields.io/badge/LinkedIn-Eiad%20Nouman-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <sub>Building useful things with AI.</sub>
-</p>
+<img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=eiadnouman&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eiadnouman&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Let's build something interesting.
+
+<a href="mailto:eiadnouman@gmail.com">Email</a>
+&nbsp; · &nbsp;
+<a href="https://www.linkedin.com/in/eiadnouman">LinkedIn</a>
+
+</div>
